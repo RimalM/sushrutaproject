@@ -58,7 +58,7 @@ In the table below we record the following information:
 | 17r:4:b | 019:lower | | 1.20.1 | athāto hitīhitīyam [!] adhyāyaṃ vyākhyāsyāmaḥ / |
 | 17v:6:a | 020:upper <br />(fol. *17 [1.21.6 -- 1.21.28] <br />is misplaced to 031-032) | 053:upper | 1.21.1 | athāto vraṇapraśnam adhyāyam vyākhyāsyāmaḥ / |
 |  |                        |  |  |  |
-| x |         022:lower |1.24.1                           |            |       || athāto vyādhisamuddeśīyam adhyāya vy
+| x |         022:lower |                           |    1.24.1        |       | athāto vyādhisamuddeśīyam adhyāya vyā syāmaḥ ||
 | x |   31r:2c                   | +067.jpg | 1.38      | dravyasaṅgrahaṇī |
 | x |            |                         |                            |      |
 | x |   35r:4b   |                +071.jpg | 1.42            | rasaviśeṣa |
