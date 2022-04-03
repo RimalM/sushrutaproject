@@ -5045,10 +5045,12 @@
        kṣīravṛkṣakaṣāye ca kākolyādau gaṇe tathā || </l>
 
 
-     <l xml:id="SS.6.29.5"><label>ut.29.5</label> vipaktavyaṃ ghṛtaṃ cāpi pānīyaṃ
-      payasā saha |
-      <caesura/>
-       utsādanaṃ vacāhiṅguyuktaṃ skandagrahe hitam || </l>
+     <l xml:id="SS.6.29.5ab"><label>ut.29.5</label> vipaktavyaṃ ghṛtaṃ cāpi pānīyaṃ
+      payasā saha |</l>
+      
+      <l xml:id="SS.6.29.5cd"><label>ut.29.5</label>utsādanaṃ vacāhiṅguyuktaṃ skandagrahe hitam || </l>
+      
+       
 
 
      <l xml:id="SS.6.29.6"><label>ut.29.6</label> gṛdhrolūkapurīṣāṇi keśā hastinakhā
