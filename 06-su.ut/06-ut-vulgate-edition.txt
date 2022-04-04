@@ -5165,10 +5165,11 @@
        kākolyādigaṇe caiva pānīyaṃ sarpiriṣyate || </l>
 
 
-     <l xml:id="SS.6.31.6"><label>ut.31.6</label> kulatthāḥ śaṅkhacūrṇaṃ ca pradehaḥ
-      sārvagandhikaḥ |
-      <caesura/>
-       gṛdhrolūkapurīṣāṇi yavā yavaphalo ghṛtam || </l>
+     <l xml:id="SS.6.31.6ab"><label>ut.31.6</label> kulatthāḥ śaṅkhacūrṇaṃ ca pradehaḥ
+      sārvagandhikaḥ | </l>
+      
+       
+     <l xml:id="SS.6.31.6cd"><label>ut.31.6</label>gṛdhrolūkapurīṣāṇi yavā yavaphalo ghṛtam || </l>
 
 
      <l xml:id="SS.6.31.7"><label>ut.31.7</label> sandhyayor ubhayoḥ
