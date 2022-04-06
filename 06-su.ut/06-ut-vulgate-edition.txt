@@ -5253,11 +5253,11 @@
        śarāvasaṃpuṭe kṛtvā baliṃ śūnyagṛhe haret || </l>
 
 
-     <l xml:id="SS.6.32.9"><label>ut.32.9</label> ucchiṣṭenābhiṣekeṇa śiśoḥ
-      snapanamiṣyate |
-      <caesura/>
-       pūjyā ca pūtanā devī balibhiḥ sopahārakaiḥ || </l>
-
+     <l xml:id="SS.6.32.9ab"><label>ut.32.9</label> ucchiṣṭenābhiṣekeṇa śiśoḥ
+      snapanamiṣyate | </l>
+       <l xml:id="SS.6.32.9cd"><label>ut.32.9</label> pūjyā ca pūtanā devī balibhiḥ sopahārakaiḥ || </l>
+      
+       
 
      <l xml:id="SS.6.32.10"><label>ut.32.10</label> malināmbarasaṃvītā malinā
       rūkṣamūrdhajā |
