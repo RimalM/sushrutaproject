@@ -5295,10 +5295,10 @@
        pippalyaḥ pippalīmūlaṃ vargo madhurako madhu || </l>
 
 
-     <l xml:id="SS.6.33.5"><label>ut.33.5</label> śālapārṇī bṛhatyau ca
-      ghṛtārtham upadiśyate |
-      <caesura/>
-       sarvagandhaiḥ pradehaś ca gātreṣv akṣṇoś ca śītalaiḥ || </l>
+     <l xml:id="SS.6.33.5ab"><label>ut.33.5ab</label> śālapārṇī bṛhatyau ca
+      ghṛtārtham upadiśyate | </l>
+     <l xml:id="SS.6.33.5cd"><label>ut.33.5cd</label> sarvagandhaiḥ pradehaś ca gātreṣv akṣṇoś ca śītalaiḥ || </l>
+       
 
 
      <l xml:id="SS.6.33.6"><label>ut.33.6</label> purīṣaṃ kaukkuṭaṃ keśāṃś carma
@@ -5313,10 +5313,10 @@
        māṃsamāmaṃ tathā pakvaṃ śoṇitaṃ ca catuṣpathe || </l>
 
 
-     <l xml:id="SS.6.33.8"><label>ut.33.8</label> nivedyamantaś ca gṛhe śiśo
-      rakṣānimittataḥ |
-      <caesura/>
-       śiśoś ca snapanaṃ kuryāt sarvagandhodakaiḥ śubhaiḥ || </l>
+     <l xml:id="SS.6.33.8ab"><label>ut.33.8ab</label> nivedyamantaś ca gṛhe śiśo
+      rakṣānimittataḥ | </l>
+      <l xml:id="SS.6.33.8cd"><label>ut.33.8cd</label> śiśoś ca snapanaṃ kuryāt sarvagandhodakaiḥ śubhaiḥ || </l>
+       
 
 
      <l xml:id="SS.6.33.9"><label>ut.33.9</label> karālā piṅgalā muṇḍā
