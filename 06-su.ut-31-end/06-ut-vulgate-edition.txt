@@ -5307,9 +5307,9 @@
                          māṃsamāmaṃ tathā pakvaṃ śoṇitaṃ ca catuṣpathe || </l>
 
 
-                    <l xml:id="SS.6.33.8"><label>ut.33.8</label> nivedyam antaś ca gṛhe śiśo
-                        rakṣānimittataḥ |
-                        <caesura/>
+                    <l xml:id="SS.6.33.8ab"><label>ut.33.8ab</label> nivedyam antaś ca gṛhe śiśo
+                        rakṣānimittataḥ | </l>
+                      <l xml:id="SS.6.33.8cd"><label>ut.33.8cd</label>
                          śiśoś ca snapanaṃ kuryāt sarvagandhodakaiḥ śubhaiḥ || </l>
 
 
