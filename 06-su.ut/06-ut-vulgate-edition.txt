@@ -5293,12 +5293,11 @@
              nadyāṃ mudgakṛtaiś cānnais tarpayec chītapūtanām || </l>
 
 
-          <l xml:id="SS.6.34.8"><label>ut.34.8</label> devyai deyaś copahāro vāruṇī
-            rudhiraṃ tathā |
-            <caesura/>
-             jalāśayānte bālasya snapanaṃ copadiśyate || </l>
-
-
+          <l xml:id="SS.6.34.8ab"><label>ut.34.8ab</label> devyai deyaś copahāro vāruṇī
+            rudhiraṃ tathā | </l>
+          <l xml:id="SS.6.34.8cd"><label>ut.34.8cd</label>  jalāśayānte bālasya snapanaṃ copadiśyate || </l>
+           
+            
           <l xml:id="SS.6.34.9"><label>ut.34.9</label> mudgaudanāśanā devī
             surāśoṇitapāyinī |
             <caesura/>
